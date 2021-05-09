@@ -1,2 +1,2 @@
 # .NET Core
-3 branch - 3 very first project ASP.NET core
+3 branch - 3 very first projects ASP.NET core
